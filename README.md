@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset>
     <url>
-        <loc>http://baidu.com/</loc>
+        <loc>https://raw.githubusercontent.com/jnzhou90/test/master/README.md/</loc>
         <lastmod>2013-01-01</lastmod>        
         <changefreq>always</changefreq>        
         <priority>1.0</priority>        
